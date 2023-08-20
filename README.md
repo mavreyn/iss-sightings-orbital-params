@@ -8,4 +8,4 @@ The script uses [BeautifulSoup](https://pypi.org/project/beautifulsoup4/#:~:text
 
 A separate program is used to get the current latitude and longitude which displays with the -iss command as well
 
-![Picture of the output](Discord.png)
+![Picture of the output](ha_iss.png)
